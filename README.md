@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, JavaScript, and Solidity**
 
-- 📫 How to reach me **quiint@quiint.me**
+- 📫 How to reach me **quiint@quiint.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
