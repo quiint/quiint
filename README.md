@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **random ideas that cross my mind**
 
-- 🌱 I’m currently learning at **Alchemy University**
+- 🌱 I’m currently learning at **Alchemy University, [Nights & Weekends S2](https://buildspace.so/nights-and-weekends)**
 
 - 👨‍💻 All of my projects are available at [quiint.dev](quiint.dev)
 
 - 💬 Ask me about **TailwindCSS**
 
-- 📫 How to reach me **quiint@quiint.email**
+- 📫 How to reach me **[quiint@quiint.email](mailto:quiint@quiint.email), Quiint#1333 on Discord, [@qui@fosstodon.org](https://fosstodon.org/@qui) in the Fediverse**
 
 - 📄 Know about my web3 experiences [https://opensea.io/QuiintDev](https://opensea.io/QuiintDev)
 
