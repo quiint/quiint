@@ -31,8 +31,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quiint&show_icons=true&locale=en&layout=compact" alt="quiint" /></p>
+<p><img align="left" src="https://github-readme-stats-tau-seven-69.vercel.app/api/top-langs?username=quiint&show_icons=true&locale=en&layout=compact" alt="quiint" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quiint&show_icons=true&locale=en" alt="quiint" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tau-seven-69.vercel.app/api?username=quiint&show_icons=true&locale=en" alt="quiint" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quiint&" alt="quiint" /></p>
