@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [quiint.dev](quiint.dev)
 
-- 💬 Ask me about **TailwindCSS**
+- 💬 Ask me about **FramedLabs**
 
 - 📫 How to reach me **[quiint@quiint.email](mailto:quiint@quiint.email), Quiint#1333 on Discord, [@qui@fosstodon.org](https://fosstodon.org/@qui) in the Fediverse**
 
