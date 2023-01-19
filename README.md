@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **random ideas that cross my mind**
 
-- 🌱 I’m currently learning at ** [Nights & Weekends S2](https://buildspace.so/nights-and-weekends)**
+- 🌱 I’m currently learning at **[Nights & Weekends S2](https://buildspace.so/nights-and-weekends)**
 
 - 👨‍💻 All of my projects are available at [quiint.dev](quiint.dev)
 
