@@ -1,11 +1,11 @@
-<h1 align="center">Hi! I'm Quiint 👋</h1>
+<h1 align="center">Hi! I'm Quint 👋</h1>
 <h3 align="center">An intermediate-level web2 dev and beginner-level web3 dev from North Carolina, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quiint&label=Profile%20views&color=0e75b6&style=flat" alt="quiint" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quiint&theme=nord&column=3" alt="quiint" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0xquiint" target="blank"><img src="https://img.shields.io/twitter/follow/0xquiint?logo=twitter&style=for-the-badge" alt="0xquiint" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xQuint" target="blank"><img src="https://img.shields.io/twitter/follow/0xquiint?logo=twitter&style=for-the-badge" alt="0xquiint" /></a> </p>
 
 - 🔭 I’m currently working on **random ideas that cross my mind**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **FramedLabs**
 
-- 📫 How to reach me **[quiint@quiint.email](mailto:quiint@quiint.email), Quiint#1333 on Discord, [@qui@fosstodon.org](https://fosstodon.org/@qui) in the Fediverse**
+- 📫 How to reach me **[quiint@quiint.email](mailto:quiint@quiint.email), Quint#1333 on Discord, [@qui@fosstodon.org](https://fosstodon.org/@qui) in the Fediverse**
 
 - 📄 Know about my web3 experiences [https://opensea.io/QuiintDev](https://opensea.io/QuiintDev)
 
