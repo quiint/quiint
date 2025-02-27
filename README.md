@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Quint 👋</h1>
 <h3 align="center">I'm a 15 yr old founder and freelancer from North Carolina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quiint&label=Profile%20views&color=0e75b6&style=flat" alt="quiint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quiint&label=Profile%20views&color=0e75b6&style=flat" alt="quiint" /> <img src="https://waka.hackclub.com/api/badge/U065DE82BEH/U065DE82BEH/interval:30_days?label=last%2030d" alt="quiint"></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quiint&theme=nord&column=3" alt="quiint" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quiint&theme=nord&column=3" alt="quiint" /></a> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U065DE82BEH&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="quiint">
 
 <p align="left"> <a href="https://twitter.com/0xQuint" target="blank"><img src="https://img.shields.io/twitter/follow/0xquint?logo=twitter&style=for-the-badge" alt="0xquint" /></a> </p>
 
