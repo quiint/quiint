@@ -7,22 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/0xQuint" target="blank"><img src="https://img.shields.io/twitter/follow/0xquint?logo=twitter&style=for-the-badge" alt="0xquint" /></a> </p>
 
-- 🔭 I’m currently working on **random ideas that cross my mind**
+- 🔭 I’m currently working on **Filmed. boxes (visit <a href="https://filmedapp.com">here</a>!)**
 
 <!-- - 🌱 I’m currently participating in **[Nights & Weekends S2](https://buildspace.so/nights-and-weekends)**
  -->
  
 - 👨‍💻 All of my projects are available at [quiint.dev](quiint.dev)
 
-- 💬 Ask me about what I'm working on, FramedLabs
+- 💬 Ask me about what I'm working on, FramedLabs or Filmed.
 
-- 📫 How to reach me **[quiint@quiint.email](mailto:quiint@quiint.email), Quint#1333 on Discord, [@qui@fosstodon.org](https://fosstodon.org/@qui) in the Fediverse**
+- 📫 How to reach me **[quiint@quiint.email](mailto:quiint@quiint.email), 0xQuint on Twitter, [@qui@fosstodon.org](https://fosstodon.org/@qui) in the Fediverse**
 
 - 📄 Know about my web3 experiences [https://opensea.io/QuiintDev](https://opensea.io/QuiintDev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xQuint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xquint" height="30" width="40" /></a>
+ <a href="mailto:quiint@quint.email">Email me! 📧</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
