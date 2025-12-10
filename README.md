@@ -26,6 +26,24 @@
 - [readykit](https://github.com/level09/readykit) - Production-ready Flask SaaS template with multi-tenancy, billing, and teams (2 days ago)
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (5 days ago)
 
+#### 📊 Recent code stats
+
+````
+JavaScript   3m 55s   ██████████░░░░░░░░░░░░░░░  38.56%
+JSON         2m 15s   ██████░░░░░░░░░░░░░░░░░░░  22.16%
+Markdown     2m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.64%
+Text         2m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.64%
+````
+
+💼 Project Groups (All Time):
+
+```
+Filmed                  83h 40m 18s   █████████████████░░░░░░░░  64.26%
+oomf                    32h 40m 33s   ███████░░░░░░░░░░░░░░░░░░  25.09%
+dakis/SwiftDownloader   12h 0m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+c7                      1h 50m 54s    █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
+```
+
 #### 📫 How to reach me
 
 Say hi!! Email me at quint@ulchar.com or reach out to me on Twitter :)
